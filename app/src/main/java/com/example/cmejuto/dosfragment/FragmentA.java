@@ -50,6 +50,7 @@ public class FragmentA extends Fragment {
                 //Toast toast= Toast.makeText(getView().getContext(), "me has pulsado", Toast.LENGTH_LONG);
                 //toast.show();
 
+                
                 //pregunto la orientación
                 //seleccionamos según la orientación
                 if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_PORTRAIT) {
